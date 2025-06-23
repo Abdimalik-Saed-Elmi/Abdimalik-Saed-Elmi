@@ -1,4 +1,4 @@
-# Hi, I'm Abdimalik Said Elmi 👋
+# Hi, I'm Abdimalik Said Elmi 👋👋
 
 ### Full-Stack Developer | Innovator | Problem Solver
 
