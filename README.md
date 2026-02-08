@@ -5,7 +5,7 @@
 A passionate **Full-Stack Developer** with a strong command of **JavaScript**, **React**, and **Node.js**. My mission is to build scalable, user-friendly, and impactful web applications that truly make a difference.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full-stack+MERN+Developer;Building+with+Next.js+%26+TypeScript;Mastering+TanStack+Query;Architecting+Scalable+Web+Apps;Open+for+Full-stack+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+with+Next.js+%26+TypeScript;Mastering+TanStack+Query;Architecting+Scalable+Web+Apps;Open+for+Full-stack+Collaborations" alt="Typing SVG" />
 </p>
 
 ## 🌐 Socials:
