@@ -4,6 +4,10 @@
 
 A passionate **Full-Stack Developer** with a strong command of **JavaScript**, **React**, and **Node.js**. My mission is to build scalable, user-friendly, and impactful web applications that truly make a difference.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F97316&center=true&width=435&lines=Building+beautiful+web+experiences;Learning+modern+Frontend+tools;Exploring+React+and+TailwindCSS;Open+to+collaboration+and+growth" alt="Typing SVG" />
+</p>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abdimalik.saed.elmi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdimalik.saed.elmi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdimalik-said-elmi-a6424534b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/cabdimaaliksm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdimaliksaedelmi@gmail.com)
 
@@ -41,6 +45,12 @@ I'm currently diving deeper into **[New Technology e.g., WebSockets, Advanced Re
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abdimalik-Saed-Elmi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🐍 GitHub Activity Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdimalik-Saed-Elmi&icon=0&color=0)](https://visitcount.itsvg.in)
